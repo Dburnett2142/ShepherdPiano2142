@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\index.html",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\index.html",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\index.html",
+              "RelativeToolTip": "shepherdpianoreact925\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T00:26:23.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
