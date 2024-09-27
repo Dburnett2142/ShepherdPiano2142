@@ -1,1 +1,2 @@
 C:\Users\Tsardean\source\repos\ShepherdPianoReact925\ShepherdPianoReact925\obj\Debug\shepherdpianoreact925.esproj.CoreCompileInputs.cache
+C:\Users\Tsardean\Documents\GitHub\ShepherdPiano2142\ShepherdPianoReact925\obj\Debug\shepherdpianoreact925.esproj.CoreCompileInputs.cache

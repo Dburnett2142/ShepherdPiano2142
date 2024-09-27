@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:5173",
-  "webRoot": "C:\\Users\\Tsardean\\source\\repos\\ShepherdPianoReact925\\ShepherdPianoReact925"
+  "webRoot": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\ShepherdPianoReact925"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>
