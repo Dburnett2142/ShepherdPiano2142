@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\shepherdpianoreact925.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\shepherdpianoreact925.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\scheduling.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\scheduling.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\video.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\video.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -27,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\scheduling.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\scheduling.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|solutionrelative:shepherdpianoreact925\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53E3A70C-5E06-48F7-97FB-3160388E59CB}|ShepherdPianoReact925\\shepherdpianoreact925.esproj|c:\\users\\tsardean\\documents\\github\\shepherdpiano2142\\shepherdpianoreact925\\src\\components\\studio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -51,66 +55,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Contact.jsx",
-              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Contact.jsx",
-              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Contact.jsx",
-              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Contact.jsx",
-              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Contact.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T08:45:34.861Z",
+              "Title": "shepherdpianoreact925",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\ShepherdPianoReact925\\shepherdpianoreact925.esproj",
+              "RelativeDocumentMoniker": "ShepherdPianoReact925\\shepherdpianoreact925.esproj",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\ShepherdPianoReact925\\shepherdpianoreact925.esproj",
+              "RelativeToolTip": "ShepherdPianoReact925\\shepherdpianoreact925.esproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T01:23:56.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Scheduling.jsx",
-              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Scheduling.jsx",
-              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Scheduling.jsx",
-              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Scheduling.jsx",
-              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Scheduling.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T08:39:16.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Video.jsx",
-              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Video.jsx",
-              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Video.jsx",
-              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Video.jsx",
-              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Video.jsx",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T08:32:15.015Z",
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Header.css",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Header.css",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Header.css",
+              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Header.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T01:15:05.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Studio.jsx",
-              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Studio.jsx",
-              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Studio.jsx",
-              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Studio.jsx",
-              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Studio.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Contact.jsx",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Contact.jsx",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Contact.jsx",
+              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Contact.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T08:22:03.236Z",
+              "WhenOpened": "2024-11-06T01:08:41.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Header.jsx",
-              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\ShepherdPianoReact925\\src\\components\\Header.jsx",
-              "RelativeDocumentMoniker": "ShepherdPianoReact925\\src\\components\\Header.jsx",
-              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\ShepherdPianoReact925\\src\\components\\Header.jsx",
-              "RelativeToolTip": "ShepherdPianoReact925\\src\\components\\Header.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Title": "Scheduling.jsx",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Scheduling.jsx",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Scheduling.jsx",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Scheduling.jsx",
+              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Scheduling.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T08:20:19.309Z",
+              "WhenOpened": "2024-11-06T01:06:25.791Z",
               "EditorCaption": ""
             },
             {
@@ -121,9 +111,9 @@
               "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\About.jsx",
               "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\About.jsx",
               "RelativeToolTip": "shepherdpianoreact925\\src\\components\\About.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T08:14:59.163Z",
+              "WhenOpened": "2024-11-06T01:03:04.369Z",
               "EditorCaption": ""
             },
             {
@@ -134,23 +124,48 @@
               "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Home.jsx",
               "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Home.jsx",
               "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Home.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-27T07:50:38.147Z",
+              "WhenOpened": "2024-10-17T23:37:15.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\App.jsx",
-              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\App.jsx",
-              "RelativeToolTip": "shepherdpianoreact925\\src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "Video.jsx",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Video.jsx",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Video.jsx",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Video.jsx",
+              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Video.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-26T00:39:11.394Z",
+              "WhenOpened": "2024-10-17T23:27:55.753Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "global.css",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\global.css",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\global.css",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\global.css",
+              "RelativeToolTip": "shepherdpianoreact925\\src\\global.css",
+              "ViewState": "AQIAACUBAAAAAAAAAAAcwFABAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T23:24:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Studio.jsx",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Studio.jsx",
+              "RelativeDocumentMoniker": "shepherdpianoreact925\\src\\components\\Studio.jsx",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\GitHub\\ShepherdPiano2142\\shepherdpianoreact925\\src\\components\\Studio.jsx",
+              "RelativeToolTip": "shepherdpianoreact925\\src\\components\\Studio.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-01T01:07:10.229Z"
             }
           ]
         }

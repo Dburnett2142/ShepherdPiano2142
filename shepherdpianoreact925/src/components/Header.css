@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'ITC Symbol';
+    src: url('/fonts/ITCSymbolBook.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.site-header {
+    background-color: black;
+    padding: 2.5% 1.5%;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 1000;
+    position: relative;
+    transform: translateZ(0);
+}
+
+@media (min-width: 600px) {
+    .site-header {
+        width: 100vw;
+        padding: 30px;
+    }
+}
+
+.header-content {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.site-title {
+    font-family: 'ITC Symbol', 'Times New Roman', serif;
+    color: silver;
+    text-align: center;
+    margin: 0;
+    font-size: 6vw;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    line-height: 1.2; /* Added for better wrapped text spacing */
+    padding: 0 10px; /* Added to prevent text touching edges */
+}
+
+@media (max-width: 768px) {
+    .site-title {
+        font-size: 8vw;
+    }
+}
+
+@media (min-width: 1200px) {
+    .site-title {
+        font-size: 72px;
+    }
+}

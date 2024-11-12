@@ -7,13 +7,13 @@ import Video from './components/Video';
 import Scheduling from './components/Scheduling';
 import Contact from './components/Contact';
 import Header from './components/Header';
+import './global.css';
 
 function App() {
     return (
         <Router>
             <div className="App">
                 <Header />
-                <Navigation />
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/about" element={<About />} />

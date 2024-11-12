@@ -1,14 +1,18 @@
+import React from 'react';
 import { Link } from 'react-router-dom';
+import './Navigation.css';
 
 function Navigation() {
     return (
-        <nav>
-            <Link to="/">Home</Link>
-            <Link to="/about">About</Link>
-            <Link to="/studio">Studio</Link>
-            <Link to="/video">Video</Link>
-            <Link to="/scheduling">Scheduling</Link>
-            <Link to="/contact">Contact</Link>
+        <nav className="main-nav">
+            <ul>
+                <li><Link to="/">Home</Link></li>
+                <li><Link to="/about">About</Link></li>
+                <li><Link to="/studio">Studio</Link></li>
+                <li><Link to="/video">Video</Link></li>
+                <li><Link to="/scheduling">Scheduling</Link></li>
+                <li><Link to="/contact">Contact</Link></li>
+            </ul>
         </nav>
     );
 }

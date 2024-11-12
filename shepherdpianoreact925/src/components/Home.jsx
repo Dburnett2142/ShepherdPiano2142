@@ -7,31 +7,18 @@ function Home() {
             <main>
 
                 <div className="featured-image">
-                    {/* Replace with actual image path */}
-                    <img src="/pianoicon.png" alt="Kamryn Shepherd performing" />
+                    <img src="/pianoKeys.jpg" alt="Keys of a piano" />
                 </div>
 
                 <section className="introduction">
-                    <h2>Discover the Joy of Piano</h2>
+                    <h2>Teaching Philosophy</h2>
                     <p>
-                        Hello, I'm Kamryn Shepherd, a passionate piano instructor dedicated to helping students
-                        of all ages and skill levels explore the beautiful world of music. Whether you're a
-                        beginner looking to start your musical journey or an experienced player aiming to refine
-                        your skills, I'm here to guide you every step of the way.
+                        My love for music stems from the emotion and connection I feel while both playing and listening.
+                        My passion developed early on when I realized that music is a language that conveys messages that words cannot.
+                        This is why I teach! I would love for everyone to speak the language of music. The importance of understanding this language is pivotal for our success in connecting with each other in society.
+                        This skill is especially important to the development of the whole person.
+                        This is why it is crucial to introduce music to children at a young age. By familiarizing yourself with this art, you begin to develop cognitive and emotional maturity in such a way only music can provide.
                     </p>
-                </section>
-
-                <section className="location">
-                    <h2>Visit Our Studio</h2>
-                    <p>
-                        Conveniently located in [City Name], our welcoming studio provides the perfect
-                        environment for learning and creativity. Come join us and let's make music together!
-                    </p>
-                    <address>
-                        123 Music Lane<br />
-                        City Name, State 12345<br />
-                        United States
-                    </address>
                 </section>
 
                 <section className="cta">
@@ -41,9 +28,6 @@ function Home() {
                 </section>
             </main>
 
-            <footer>
-                <p>&copy; 2024 Kamryn Shepherd Piano. All rights reserved.</p>
-            </footer>
         </div>
     );
 }
